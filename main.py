@@ -60,4 +60,3 @@ print(f"Precision: {precision}")
 print(f"Recall: {recall}")
 print(f"Specifity: {specifity}")
 print(f"F1 Score: {f1}")
-//Noah was here.
